@@ -1,0 +1,1 @@
+﻿insert into Users(Username,Password,Balance) values ('kan','kan',1000)
